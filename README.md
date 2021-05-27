@@ -64,16 +64,17 @@
 ## :book: Project
 
 ### Natural Language Processing
-<!-- YOUTUBE:START -->
+
 - Breast Cancer Detection using Deep Neural Network https://github.com/razerspeed/Image-Caption-Generation
 - Blood Cell Detection https://github.com/razerspeed/blood_cell_detection
 
 
-<!-- YOUTUBE:END -->
+
 ### Computer Vision
 
 - [Breast Cancer Detection using Deep Neural Network] (https://github.com/razerspeed/Breast-cancer-detection-using-deep-neural-network)
 - [Blood Cell Detection] (https://github.com/razerspeed/blood_cell_detection)
+- [How To Manage Multiple APIs with RapidAPI (2021)](https://www.youtube.com/watch?v=NFToND6x_nI)
 
 
 
