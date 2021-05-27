@@ -64,7 +64,7 @@
 
 ### Natural Language Processing
 
-- [Image Caption Generation](https://github.com/razerspeed/Image-Caption-Generation)
+- [Image Caption Generation (Web App)](https://github.com/razerspeed/Image-Caption-Generation)
 - [StumbleUpon Evergreen Classification Challenge](https://github.com/razerspeed/StumbleUpon-Evergreen-Classification-Challenge)
 - [Natural Language Processing with Disaster Tweets](https://github.com/razerspeed/Natural-Language-Processing-with-Disaster-Tweets)
 
@@ -73,11 +73,11 @@
 ### Computer Vision
 
 - [Breast Cancer Detection using Deep Neural Network](https://github.com/razerspeed/Breast-cancer-detection-using-deep-neural-network)
-- [Blood Cell Detection](https://github.com/razerspeed/blood_cell_detection)
+- [Blood Cell Detection (Web App)](https://github.com/razerspeed/blood_cell_detection)
 
 
 ### Recommendation System
-- [Movie Recommendation Collaborative Filtering](https://github.com/razerspeed/movie_recommendation_collaborative_filtering)
+- [Movie Recommendation Collaborative Filtering (Web App)](https://github.com/razerspeed/movie_recommendation_collaborative_filtering)
 
 
 
