@@ -22,15 +22,16 @@ Here are some ideas to get you started:
 ## I'm a Developer, Learner and Experimentor!!
 
 - 🌱 I’m currently learning everything that is interesting 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to learn new techniques in deep learning
 - 🥅 2021 Goals: To get high rank in Kaggle Competition eventually Grandmaster :sweat_smile:
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
-### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
 
 ### Connect with me:
+
+
+[<img align="left" alt="https://www.kaggle.com/razerspeed" width="22px" src="https://www.kaggle.com/static/images/site-logo.png" />][website]
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
