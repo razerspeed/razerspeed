@@ -42,7 +42,9 @@ Here are some ideas to get you started:
 
 
 [<img align="left" alt="Medium" width="30px" src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Medium3_svg-512.png" />][medium]
+
 [medium]: https://medium.com/@razerspeed.rohit
+
 <br />
 <br />
 <br />
