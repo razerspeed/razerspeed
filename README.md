@@ -65,8 +65,8 @@
 
 ### Natural Language Processing
 <!-- YOUTUBE:START -->
-- [Breast Cancer Detection using Deep Neural Network] (https://github.com/razerspeed/Image-Caption-Generation)
-- [Blood Cell Detection] (https://github.com/razerspeed/blood_cell_detection)
+- Breast Cancer Detection using Deep Neural Network https://github.com/razerspeed/Image-Caption-Generation
+- Blood Cell Detection https://github.com/razerspeed/blood_cell_detection
 
 
 <!-- YOUTUBE:END -->
