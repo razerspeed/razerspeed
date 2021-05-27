@@ -31,14 +31,18 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 
-[<img align="left" alt="Kaggle" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />][website]
+[<img align="left" alt="Kaggle" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />][website]
 
 [website]: https://www.kaggle.com/razerspeed
 
-[<img align="left" alt="LinkedIn" width="40px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/rohit-kumar-a65909156/
- -->
+
+
+
+[<img align="left" alt="Medium" width="30px" src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Medium3_svg-512.png" />][medium]
+[medium]: https://medium.com/@razerspeed.rohit
 <br />
 <br />
 <br />
