@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 
-[<img align="left" alt="https://www.kaggle.com/razerspeed" width="22px" src="https://www.kaggle.com/static/images/site-logo.png" />][website]
+[<img align="left" alt="https://www.kaggle.com/razerspeed" width="22px" src="https://storage.googleapis.com/kaggle-media/Kaggle%20Brand%20Guidelines%20CMS/transparent%20logo.png" />][website]
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
