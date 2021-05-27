@@ -71,12 +71,12 @@
 
 <!-- YOUTUBE:END -->
 ### Computer Vision
-<!-- YOUTUBE:START -->
+
 - [Breast Cancer Detection using Deep Neural Network] (https://github.com/razerspeed/Breast-cancer-detection-using-deep-neural-network)
 - [Blood Cell Detection] (https://github.com/razerspeed/blood_cell_detection)
 
 
-<!-- YOUTUBE:END -->
+
 
 ### Recommendation System
 
