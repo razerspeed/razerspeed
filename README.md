@@ -31,8 +31,6 @@
 [medium]: https://medium.com/@razerspeed.rohit
 
 <br />
-<br />
-<br />
 
 ### Languages and Tools:
 
@@ -59,14 +57,15 @@
 [git]: https://git-scm.com/
 
 
-
-
-<br />
 <br />
 
 ---
 
-### 📺 Latest YouTube Videos
+### :book: Latest YouTube Videos
+
+
+
+
 
 <!-- YOUTUBE:START -->
 - [How To Manage Multiple APIs with RapidAPI (2021)](https://www.youtube.com/watch?v=NFToND6x_nI)
