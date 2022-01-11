@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning everything that is interesting 🤣
 - 👯 I’m looking to learn new techniques in deep learning
-- 🥅 2021 Goals: To get high rank in Kaggle Competition eventually Grandmaster :sweat_smile:
 
 
 
