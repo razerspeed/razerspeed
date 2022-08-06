@@ -6,7 +6,7 @@
  -->
 ## I'm a Developer, Learner and Experimentor!!
 
-- 🌱 I’m currently learning everything that is interesting
+- 🌱 I’m currently learning anythink and everything that is interesting
 - 👯 I’m looking to learn new techniques in deep learning
 
 
