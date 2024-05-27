@@ -16,7 +16,7 @@
 
 [website]: https://www.kaggle.com/razerspeed
 
-[<img align="left" alt="LinkedIn" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="LinkedIn" width="26px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/rohit-kumar-a65909156/
 
