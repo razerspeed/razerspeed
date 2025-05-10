@@ -1,94 +1,72 @@
-
 ### Hi there, I'm Rohit 👋
 
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
- -->
-## I'm a Developer, Learner and Experimentor!!
+🚀 I'm a Full-Stack Developer, Tech Lead, and passionate learner who loves building and scaling real-world products.
 
-- 🌱 I’m currently learning anythink and everything that is interesting
+- 💻 I enjoy creating backend architectures, deploying scalable services, and crafting interactive frontends.
+- 🌱 Currently exploring everything exciting—from ML pipelines to serverless infra.
+- 🔭 Personal Project [**VizCode**](https://www.vizcode.in) – a coding education platform for interactive programming tutorials.
 
+---
 
-### Connect with me:
+### 🌐 Connect with Me
 
+[<img align="left" alt="Kaggle" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />](https://www.kaggle.com/razerspeed)
+[<img align="left" alt="LinkedIn" width="30px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" />](https://www.linkedin.com/in/rohit-kumar-a65909156/)
+[<img align="left" alt="Medium" width="30px" src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Medium3_svg-512.png" />](https://medium.com/@razerspeed.rohit)
 
-[<img align="left" alt="Kaggle" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />][website]
+<br/><br/>
 
-[website]: https://www.kaggle.com/razerspeed
+---
 
-[<img align="left" alt="LinkedIn" width="26px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" />][linkedin]
+### 🛠️ Languages & Tools
 
-[linkedin]: https://www.linkedin.com/in/rohit-kumar-a65909156/
+### 🛠️ Languages & Tools
 
-
-
-[<img align="left" alt="Medium" width="26px" src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Medium3_svg-512.png" />][medium]
-
-[medium]: https://medium.com/@razerspeed.rohit
-
-<br />
-<br />
-
-
-### Languages and Tools:
-
-[<img align="left" alt="Python" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />][python]
-
-[python]: https://www.python.org/
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />](https://www.python.org/)
+[<img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />](https://flask.palletsprojects.com/)
+[<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />](https://www.docker.com/)
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />](https://reactjs.org/)
+[<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />](https://nextjs.org/)
+[<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org/)
+[<img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />](https://expressjs.com/)
+[<img align="left" alt="WebSockets" width="26px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 
 
+<br/><br/>
 
-[<img align="left" alt="PyTorch" width="26px" src="https://s3.us-east-2.amazonaws.com/aiworkbox/technology-images/pytorch_logo_200x200.png" />][pytorch]
+---
 
-[pytorch]: https://pytorch.org/
+### 💡 Featured Project — VizCode
 
-[<img align="left" alt="CSS3" width="26px" src="https://3.bp.blogspot.com/-d-nV7xJRmpw/Xo328dcAx3I/AAAAAAAAC7Q/qlqJOle6XIosJ3CGIDJ04F3Voh1iXDg0gCLcBGAsYHQ/s1600/TF_FullColor_Icon.jpg" />][tf]
+🎓 **[VizCode](https://www.vizcode.in)** is an interactive platform for learning coding, algorithms, and data structures through animated visuals and project-based content.
 
-[tf]: https://www.tensorflow.org/
+- 📹 Project Showcase: [vizcode.in/project-showcase](https://www.vizcode.in/project-showcase)
+- 🔧 Built with AWS Lambda, Next.js, React, PostgreSQL, and Serverless architecture
+- 🧠 Focused on making programming concepts intuitive and engaging
 
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
+---
 
-[mysql]: https://www.mysql.com/
+### 🧠 Notable Projects
 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][git]
-
-[git]: https://git-scm.com/
-
-
-<br />
-
-
-## :book: Project
-
-### Natural Language Processing
-
+#### 🗣️ Natural Language Processing
 - [Image Caption Generation (Web App)](https://github.com/razerspeed/Image-Caption-Generation)
-- [StumbleUpon Evergreen Classification Challenge](https://github.com/razerspeed/StumbleUpon-Evergreen-Classification-Challenge)
-- [Natural Language Processing with Disaster Tweets](https://github.com/razerspeed/Natural-Language-Processing-with-Disaster-Tweets)
+- [StumbleUpon Evergreen Classification](https://github.com/razerspeed/StumbleUpon-Evergreen-Classification-Challenge)
+- [Disaster Tweet Classification](https://github.com/razerspeed/Natural-Language-Processing-with-Disaster-Tweets)
 
-
-
-### Computer Vision
-
-- [Breast Cancer Detection using Deep Neural Network](https://github.com/razerspeed/Breast-cancer-detection-using-deep-neural-network)
+#### 👁️ Computer Vision
+- [Breast Cancer Detection using DNN](https://github.com/razerspeed/Breast-cancer-detection-using-deep-neural-network)
 - [Blood Cell Detection (Web App)](https://github.com/razerspeed/blood_cell_detection)
 
-
-### Recommendation System
-- [Movie Recommendation Collaborative Filtering (Web App)](https://github.com/razerspeed/movie_recommendation_collaborative_filtering)
-
-
-
+#### 🎬 Recommendation Systems
+- [Movie Recommendation with Collaborative Filtering (Web App)](https://github.com/razerspeed/movie_recommendation_collaborative_filtering)
 
 ---
 
-### 📕 Latest Blog Posts
+### 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Breast cancer detection using deep neural network](https://medium.com/analytics-vidhya/breast-cancer-detection-using-deep-neural-network-6691a472d7a7)
-- [Fast input pipeline using tf.data API](https://medium.com/@razerspeed.rohit/a-guide-to-build-fast-input-pipeline-using-tf-data-api-vs-imagedatagenerator-9e537aa33b1c)
-<!-- BLOG-POST-LIST:END -->
-
-
+- 📘 [Breast cancer detection using deep neural network](https://medium.com/analytics-vidhya/breast-cancer-detection-using-deep-neural-network-6691a472d7a7)
+- ⚡ [Fast input pipeline using tf.data API](https://medium.com/@razerspeed.rohit/a-guide-to-build-fast-input-pipeline-using-tf-data-api-vs-imagedatagenerator-9e537aa33b1c)
 
 ---
+
+💬 Feel free to connect, collaborate, or just say hi. Let’s build something awesome together!
